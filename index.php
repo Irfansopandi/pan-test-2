@@ -8,5 +8,9 @@
 <body>
     <h1>hallo word</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus id consequuntur assumenda, aliquam odio excepturi magnam, dolore mollitia necessitatibus similique alias, laborum repudiandae. Nulla laboriosam facere delectus eum soluta est.</p>
+    <ul>
+        <li>nana : midline</li>
+        <li>baxia : roam</li>
+    </ul>
 </body>
 </html>
